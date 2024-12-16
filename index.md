@@ -6,3 +6,7 @@
 ###### This is a H6 Level Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
