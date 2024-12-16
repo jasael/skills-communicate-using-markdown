@@ -4,3 +4,5 @@
 #### This is a H4 Level Header
 ##### This is a H5 Level Header
 ###### This is a H6 Level Header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
